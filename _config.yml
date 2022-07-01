@@ -102,4 +102,7 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repo:
+    github: git@github.com:RespawnR/respawnr.github.io.git
+  branch: master
