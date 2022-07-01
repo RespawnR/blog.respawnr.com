@@ -1,10 +1,9 @@
 # 初始化 Hexo
 # 注意，这里并没有检查 NodeJS 环境 和 hexo-cli
 # 如果需要，可自行扩展
-# hexo init core
+# hexo init
 
 # 安装依赖，修改配置
-cd core
 npm install
 npm install hexo-deployer-git --save
 cp _config.yml _config.yml.bak
