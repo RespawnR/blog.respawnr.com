@@ -1,3 +1,2 @@
-core/node_modules
-core/themes/landscape
-core/themes/icarus
+node_modules
+themes
