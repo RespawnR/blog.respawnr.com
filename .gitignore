@@ -1,4 +1,4 @@
-.deploy_git
+.deploy*/
 node_modules
 themes
 public
