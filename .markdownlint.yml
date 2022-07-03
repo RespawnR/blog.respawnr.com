@@ -1,4 +1,6 @@
 # markdown lint 配置文件
 
+# 关闭单行列数限制
+MD013: false
 # 关闭markdown内检查html
 MD033: false

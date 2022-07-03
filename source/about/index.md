@@ -7,9 +7,7 @@ toc: true
 
 本站建立于 `2022.07.02 02:00`
 
-由 [Hexo](https://hexo.io/) &
-[icarus](https://github.com/ppoffice/hexo-theme-icarus) 构建,
-运行在 [Vercel](https://vercel.com/)
+由 [Hexo](https://hexo.io/) & [icarus](https://github.com/ppoffice/hexo-theme-icarus) 构建, 运行在 [Vercel](https://vercel.com/)
 
 ## 关于我
 
