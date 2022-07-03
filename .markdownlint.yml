@@ -1,0 +1,4 @@
+# markdown lint 配置文件
+
+# 关闭markdown内检查html
+MD033: false

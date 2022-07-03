@@ -104,7 +104,7 @@ head:
 navbar:
   # Navigation menu items
   menu:
-    快乐老家: /
+    # 快乐老家: /
     归档: /archives
     # 时间线: /timeline
     分类: /categories
@@ -206,9 +206,9 @@ widgets:
     # Author's current location
     location: 南京 中国
     # URL or path to the avatar image
-    avatar: /img/avatar.jpg
+    avatar: /img/favicon.svg
     # Whether show the rounded avatar image
-    avatar_rounded: true
+    avatar_rounded: false
     # Email address for the Gravatar
     gravatar:
     # URL or path for the follow button
